@@ -33,3 +33,10 @@ At step 25k
 </p>
 
 ### I tried with some images from the web for testing. The results were not too bad. The model was smart enough to add green to trees. The actual images were taken during the fall/winter seasons. 
+
+<p align="center">
+  <img src="https://github.com/anjanakg/Use-GAN-Model-To-Generate-Sculptures-Based-On-Their-Outlines./blob/main/images/test5.jpg" width="1200" >
+</p>
+<p align="center">
+  <img src="https://github.com/anjanakg/Use-GAN-Model-To-Generate-Sculptures-Based-On-Their-Outlines./blob/main/images/test6.jpg" width="1200" >
+</p>
