@@ -40,3 +40,9 @@ At step 25k
 <p align="center">
   <img src="https://github.com/anjanakg/Use-GAN-Model-To-Generate-Sculptures-Based-On-Their-Outlines./blob/main/images/test6.jpg" width="1200" >
 </p>
+
+### It added colors on me. Well, not that much of bad.... 
+
+<p align="center">
+  <img src="https://github.com/anjanakg/Use-GAN-Model-To-Generate-Sculptures-Based-On-Their-Outlines./blob/main/images/test4.jpg" width="1200" >
+</p>
