@@ -4,3 +4,6 @@ For this task I used the same image dataset which was used for the sculpture cla
 
 ## Test Sculpture Image Transformation Over the Time
 
+<p align="center">
+  <img src="https://github.com/anjanakg/Visualizing-Hidden-Stories-Using-Deep-Learning/blob/main/images/step0.jpg" width="1200" >
+</p>
