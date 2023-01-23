@@ -46,3 +46,12 @@ At step 25k
 <p align="center">
   <img src="https://github.com/anjanakg/Use-GAN-Model-To-Generate-Sculptures-Based-On-Their-Outlines./blob/main/images/test4.jpg" width="1200" >
 </p>
+
+### It added an atistic effect for some images, and I like them.
+
+<p align="center">
+  <img src="https://github.com/anjanakg/Use-GAN-Model-To-Generate-Sculptures-Based-On-Their-Outlines./blob/main/images/test7.jpg" width="1200" >
+</p>
+<p align="center">
+  <img src="https://github.com/anjanakg/Use-GAN-Model-To-Generate-Sculptures-Based-On-Their-Outlines./blob/main/images/test8.jpg" width="1200" >
+</p>
