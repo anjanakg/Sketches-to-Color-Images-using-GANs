@@ -55,3 +55,5 @@ At step 25k
 <p align="center">
   <img src="https://github.com/anjanakg/Use-GAN-Model-To-Generate-Sculptures-Based-On-Their-Outlines./blob/main/images/test8.jpg" width="1200" >
 </p>
+
+### Training a GAN is a more time-consuming task. But I love the experience and the final result. 
