@@ -4,6 +4,20 @@ For this task I used the same image dataset which was used for the sculpture cla
 
 ## Test Sculpture Image Transformation Over the Time
 
+At step 0
+
 <p align="center">
-  <img src="https://github.com/anjanakg/Visualizing-Hidden-Stories-Using-Deep-Learning/blob/main/images/step0.jpg" width="1200" >
+  <img src="https://github.com/anjanakg/Use-GAN-Model-To-Generate-Sculptures-Based-On-Their-Outlines./blob/main/images/step0.jpg" width="1200" >
+</p>
+
+At step 1k
+
+<p align="center">
+  <img src="https://github.com/anjanakg/Use-GAN-Model-To-Generate-Sculptures-Based-On-Their-Outlines./blob/main/images/step1k.jpg" width="1200" >
+</p>
+
+At step 25k
+
+<p align="center">
+  <img src="https://github.com/anjanakg/Use-GAN-Model-To-Generate-Sculptures-Based-On-Their-Outlines./blob/main/images/step25k.jpg" width="1200" >
 </p>
