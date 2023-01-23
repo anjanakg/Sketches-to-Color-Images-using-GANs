@@ -19,5 +19,15 @@ At step 1k
 At step 25k
 
 <p align="center">
-  <img src="https://github.com/anjanakg/Use-GAN-Model-To-Generate-Sculptures-Based-On-Their-Outlines./blob/main/images/step25k.jpg" width="1200" >
+  <img src="https://github.com/anjanakg/Use-GAN-Model-To-Generate-Sculptures-Based-On-Their-Outlines./blob/main/images/step 25k.jpg" width="1200" >
+</p>
+
+
+## Results for some test images
+
+<p align="center">
+  <img src="https://github.com/anjanakg/Use-GAN-Model-To-Generate-Sculptures-Based-On-Their-Outlines./blob/main/images/test1.jpg" width="1200" >
+</p>
+<p align="center">
+  <img src="https://github.com/anjanakg/Use-GAN-Model-To-Generate-Sculptures-Based-On-Their-Outlines./blob/main/images/test3.jpg" width="1200" >
 </p>
