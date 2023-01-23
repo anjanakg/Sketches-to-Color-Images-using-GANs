@@ -41,7 +41,7 @@ At step 25k
   <img src="https://github.com/anjanakg/Use-GAN-Model-To-Generate-Sculptures-Based-On-Their-Outlines./blob/main/images/test6.jpg" width="1200" >
 </p>
 
-### It added colors on me. Well, not bad.... 
+### It added colors on me. Well.., not bad.... The model was trained on sculpture images. So, it is adding gray as the human skin color.
 
 <p align="center">
   <img src="https://github.com/anjanakg/Use-GAN-Model-To-Generate-Sculptures-Based-On-Their-Outlines./blob/main/images/test4.jpg" width="1200" >
